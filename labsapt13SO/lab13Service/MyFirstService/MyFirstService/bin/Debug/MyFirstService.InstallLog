@@ -1,0 +1,125 @@
+﻿Installing assembly 'C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Restoring event log to previous state for source Service1.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security, State.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Restoring event log to previous state for source Service1.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security, State.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Restoring event log to previous state for source Service1.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security, State.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\user\Desktop\labsapt13SO\lab13Service\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe

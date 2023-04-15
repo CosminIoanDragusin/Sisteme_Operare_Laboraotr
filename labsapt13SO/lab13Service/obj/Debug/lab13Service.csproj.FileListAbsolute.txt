@@ -1,0 +1,17 @@
+C:\Users\Adelina\my stuff\facultate\an3\semestrul2\sisteme de operare\laborator\labsapt13\lab13Service\bin\Debug\lab13Service.exe.config
+C:\Users\Adelina\my stuff\facultate\an3\semestrul2\sisteme de operare\laborator\labsapt13\lab13Service\bin\Debug\lab13Service.exe
+C:\Users\Adelina\my stuff\facultate\an3\semestrul2\sisteme de operare\laborator\labsapt13\lab13Service\bin\Debug\lab13Service.pdb
+C:\Users\Adelina\my stuff\facultate\an3\semestrul2\sisteme de operare\laborator\labsapt13\lab13Service\obj\Debug\lab13Service.csprojAssemblyReference.cache
+C:\Users\Adelina\my stuff\facultate\an3\semestrul2\sisteme de operare\laborator\labsapt13\lab13Service\obj\Debug\lab13Service.ProjectInstaller.resources
+C:\Users\Adelina\my stuff\facultate\an3\semestrul2\sisteme de operare\laborator\labsapt13\lab13Service\obj\Debug\lab13Service.csproj.GenerateResource.cache
+C:\Users\Adelina\my stuff\facultate\an3\semestrul2\sisteme de operare\laborator\labsapt13\lab13Service\obj\Debug\lab13Service.csproj.CoreCompileInputs.cache
+C:\Users\Adelina\my stuff\facultate\an3\semestrul2\sisteme de operare\laborator\labsapt13\lab13Service\obj\Debug\lab13Service.exe
+C:\Users\Adelina\my stuff\facultate\an3\semestrul2\sisteme de operare\laborator\labsapt13\lab13Service\obj\Debug\lab13Service.pdb
+C:\Users\Adelina\labsapt13SO\lab13Service\bin\Debug\lab13Service.exe.config
+C:\Users\Adelina\labsapt13SO\lab13Service\bin\Debug\lab13Service.exe
+C:\Users\Adelina\labsapt13SO\lab13Service\bin\Debug\lab13Service.pdb
+C:\Users\Adelina\labsapt13SO\lab13Service\obj\Debug\lab13Service.ProjectInstaller.resources
+C:\Users\Adelina\labsapt13SO\lab13Service\obj\Debug\lab13Service.csproj.GenerateResource.cache
+C:\Users\Adelina\labsapt13SO\lab13Service\obj\Debug\lab13Service.csproj.CoreCompileInputs.cache
+C:\Users\Adelina\labsapt13SO\lab13Service\obj\Debug\lab13Service.exe
+C:\Users\Adelina\labsapt13SO\lab13Service\obj\Debug\lab13Service.pdb
